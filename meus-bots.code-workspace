@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../stake-vip-bot"
+		},
+		{
+			"path": "../bot-de-leads"
+		}
+	],
+	"settings": {}
+}
