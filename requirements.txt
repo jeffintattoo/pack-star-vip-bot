@@ -4,4 +4,4 @@ qrcode
 pillow
 python-dotenv
 schedule
-
+pyTelegramBotAPI
